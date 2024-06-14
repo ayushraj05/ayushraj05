@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=swift,xcode,ios,firebase,git" />
+    <img src="https://skillicons.dev/icons?i=swift,firebase,git" />
     <img src="https://skillicons.dev/icons?i=algorithms,datastructures,problem-solving,mathematics" /><br>
 </div>
 
