@@ -81,5 +81,7 @@ Here are some ideas to get you started:
 <h2 align="center"> Leetcode Stats </h2>
 <br>
 <div align="center">
-    ![Leetcode Stats](https://leetcard.jacoblin.cool/ayush_raj_pal)
+    <a href="https://leetcard.jacoblin.cool/ayush_raj_pal?theme=dark&font=Radio%20Canada&ext=heatmap">
+    <img src="https://leetcard.jacoblin.cool/ayush_raj_pal?theme=dark&font=Radio%20Canada&ext=heatmap" alt="Leetcode profile" />
+  </a>
 </div>
