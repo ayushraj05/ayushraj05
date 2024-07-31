@@ -78,3 +78,8 @@ Here are some ideas to get you started:
 <br/><br/>
 
 <hr/>
+<h2 align="center"> Leetcode Stats </h2>
+<br>
+<div align="center">
+    ![Leetcode Stats](https://leetcard.jacoblin.cool/ayush_raj_pal)
+</div>
