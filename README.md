@@ -54,6 +54,23 @@ Here are some ideas to get you started:
 <br/>
 <hr/>
 
+<h2 align="center"> Leetcode Stats </h2>
+<br>
+ 
+<p align="center">
+  <a href="https://leetcode.com/ayush_raj_pal/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/ayush_raj_pal/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" alt="jyot" height="200" width="200" /></a>
+    <a href="https://leetcode.com/ayush_raj_pal/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/ayush_raj_pal/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/ayush_raj_pal/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+
+<div align="center">
+    <a href="https://leetcard.jacoblin.cool/ayush_raj_pal?theme=dark&font=Radio%20Canada&ext=heatmap">
+    <img src="https://leetcard.jacoblin.cool/ayush_raj_pal?theme=dark&font=Radio%20Canada&ext=heatmap" alt="Leetcode profile" />
+  </a>
+</div>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -78,10 +95,3 @@ Here are some ideas to get you started:
 <br/><br/>
 
 <hr/>
-<h2 align="center"> Leetcode Stats </h2>
-<br>
-<div align="center">
-    <a href="https://leetcard.jacoblin.cool/ayush_raj_pal?theme=dark&font=Radio%20Canada&ext=heatmap">
-    <img src="https://leetcard.jacoblin.cool/ayush_raj_pal?theme=dark&font=Radio%20Canada&ext=heatmap" alt="Leetcode profile" />
-  </a>
-</div>
