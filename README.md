@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 <h2 align="center">🎵 Now Playing on Apple Music 🎵</h2>
 <br>
 <div align="center">
-  <a href="https://github.com/rayriffy/apple-music-github-profile">
+  <a>
     <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001842.c582b3f6de3d487181d844b159df4316.1134" alt="Apple Music GitHub profile" />
   </a>
 </div>
