@@ -71,4 +71,3 @@ Here are some ideas to get you started:
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushraj05&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<hr/>
