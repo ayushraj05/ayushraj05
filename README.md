@@ -56,16 +56,6 @@ Here are some ideas to get you started:
 
 <h2 align="center"> Leetcode Stats </h2>
 <br>
- 
-<p align="center">
-  <a href="https://leetcode.com/ayush_raj_pal/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/ayush_raj_pal/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" alt="jyot" height="200" width="200" /></a>
-    <a href="https://leetcode.com/ayush_raj_pal/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/ayush_raj_pal/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/ayush_raj_pal/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
-    <a href="https://leetcode.com/ayush_raj_pal/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-</p>
-
 <div align="center">
     <a href="https://leetcard.jacoblin.cool/ayush_raj_pal?theme=dark&font=Radio%20Canada&ext=heatmap">
     <img src="https://leetcard.jacoblin.cool/ayush_raj_pal?theme=dark&font=Radio%20Canada&ext=heatmap" alt="Leetcode profile" />
@@ -80,19 +70,5 @@ Here are some ideas to get you started:
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushraj05&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<br/><br/>
-
-<hr/>
-
-<h2 align="center">🎵 Now Playing on Apple Music 🎵</h2>
-<br>
-<div align="center">
-  <a>
-    <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001842.c582b3f6de3d487181d844b159df4316.1134" alt="Apple Music GitHub profile" />
-  </a>
-</div>
-
-<br/><br/>
 
 <hr/>
